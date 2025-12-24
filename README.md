@@ -2,6 +2,8 @@
 
 ![](assets/header.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300AEEF&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Philippe+K%C3%BCng;Forward-Deployed+AI+Architect;Bridging+Innovation+%26+Implementation;AI+Engineering+%7C+Multi-Agent+Systems+%7C+MLOps;Building+AI+Systems+that+Survive+Contact+with+Reality)](https://github.com/Datakult0r)
+
 # 👋 Hi, I'm Philippe Küng — Forward-Deployed AI Architect
 
 > “I build and deploy AI systems that survive contact with reality.”

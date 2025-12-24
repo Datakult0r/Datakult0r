@@ -1,3 +1,7 @@
+![](assets/Bottom_up.svg)
+
+![](assets/header.png)
+
 # 👋 Hi, I'm Philippe Küng — Forward-Deployed AI Architect
 
 > “I build and deploy AI systems that survive contact with reality.”

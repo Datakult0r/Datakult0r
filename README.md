@@ -102,7 +102,7 @@ From **multi-agent systems** to **LLM orchestration** and **enterprise data plat
 
 ### 📈 GitHub Highlights
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Datakult0r&theme=radical)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Datakult0r&theme=radical&hide_border=true)
 
 ---
 
